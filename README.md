@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @stellar531
+- 👀 I’m interested in scientific computation, machine learning, and data analysis 
+- 🌱 I’m currently learning Python, with plans to incorporate JS into my projects though React and Node.js
+- 💞️ I’m looking to collaborate on educational projects at the beginner to intermediate level
+- 📫 How to reach me: stellar531@protonmail.com
